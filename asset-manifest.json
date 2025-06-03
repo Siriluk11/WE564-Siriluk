@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-sample/static/css/main.44f8b8b5.css",
-    "main.js": "/react-sample/static/js/main.a2c0cf01.js",
-    "static/js/787.2c438de5.chunk.js": "/react-sample/static/js/787.2c438de5.chunk.js",
-    "index.html": "/react-sample/index.html",
-    "main.44f8b8b5.css.map": "/react-sample/static/css/main.44f8b8b5.css.map",
-    "main.a2c0cf01.js.map": "/react-sample/static/js/main.a2c0cf01.js.map",
-    "787.2c438de5.chunk.js.map": "/react-sample/static/js/787.2c438de5.chunk.js.map"
+    "main.css": "/WE564-Siriluk/static/css/main.44f8b8b5.css",
+    "main.js": "/WE564-Siriluk/static/js/main.d106376a.js",
+    "static/js/787.0bd07511.chunk.js": "/WE564-Siriluk/static/js/787.0bd07511.chunk.js",
+    "index.html": "/WE564-Siriluk/index.html",
+    "main.44f8b8b5.css.map": "/WE564-Siriluk/static/css/main.44f8b8b5.css.map",
+    "main.d106376a.js.map": "/WE564-Siriluk/static/js/main.d106376a.js.map",
+    "787.0bd07511.chunk.js.map": "/WE564-Siriluk/static/js/787.0bd07511.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.a2c0cf01.js"
+    "static/js/main.d106376a.js"
   ]
 }
